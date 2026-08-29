@@ -1,0 +1,60 @@
+about:
+  description: Finance terminal, in your terminal.
+  license: NOASSERTION
+  homepage: https://gloom.sh
+  head: 08edd04
+  archived: false
+  latestVersion: v0.11.2
+  collectedAt: 2026-08-29T07:28:52Z
+timeline:
+  created: 2026-03-25
+  lastCommit: 2026-08-28
+  lastRelease: 2026-08-28
+popularity:
+  star: 2004
+  watcher: 6
+  fork: 124
+  release: 44
+  contributor: 13
+  pullRequest: 41
+  issue: 63
+language:
+  TypeScript: 10831475
+  PowerShell: 50698
+  CSS: 20979
+  Shell: 10479
+  Inno Setup: 4480
+totalLine: 10918111
+recent:
+  last30d:
+    since: 2026-07-30
+    release: 7
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+  last90d:
+    since: 2026-05-31
+    release: 20
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+  last180d:
+    since: 2026-03-02
+    release: 44
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+  last360d:
+    since: 2025-09-03
+    release: 44
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
