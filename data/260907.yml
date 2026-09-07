@@ -2,13 +2,13 @@ about:
   description: "Finance terminal, in your terminal."
   license: NOASSERTION
   homepage: https://gloom.sh
-  head: 946ab2c
+  head: b189c9c
   archived: false
   latestVersion: "v0.13.2"
-  collectedAt: 2026-09-07T04:25:10Z
+  collectedAt: 2026-09-07T20:04:53Z
 timeline:
   created: 2026-03-25
-  lastCommit: 2026-09-06
+  lastCommit: 2026-09-07
   lastRelease: 2026-09-05
 popularity:
   star: 2049
@@ -16,15 +16,15 @@ popularity:
   fork: 123
   release: 48
   contributor: 13
-  pullRequest: 660
+  pullRequest: 663
   issue: 68
 language:
-  TypeScript: 11391814
+  TypeScript: 11397680
   PowerShell: 51035
   CSS: 21154
   Shell: 10479
   Inno Setup: 4480
-totalBytes: 11478962
+totalBytes: 11484828
 recent:
   last30d:
     since: 2026-08-08
@@ -76,20 +76,20 @@ recent:
     commit: 0
 total:
   release: 48
-  mergedPR: 613
+  mergedPR: 616
   openPR: 3
-  closedIssue: 58
-  openIssue: 10
-  commit: 896
+  closedIssue: 59
+  openIssue: 9
+  commit: 899
 ---
 path: /home/runner/.x-repo/github.com/vincelwt/gloomberb
-collectedAt: 2026-09-07T04:25:13Z
+collectedAt: 2026-09-07T20:04:56Z
 loc:
   TypeScript:
-    code: 193494
-    comments: 3982
-    blanks: 18183
-    files: 1343
+    code: 193630
+    comments: 3989
+    blanks: 18196
+    files: 1344
   Tsx:
     code: 100982
     comments: 1289
@@ -126,43 +126,43 @@ loc:
     blanks: 350
     files: 6
 total:
-  code: 298193
-  comments: 6170
-  blanks: 26789
-  files: 1824
+  code: 298329
+  comments: 6177
+  blanks: 26802
+  files: 1825
 ---
 
 ---
 eget:
-  collectedAt: 2026-09-07T04:25:14+00:00
+  collectedAt: 2026-09-07T20:04:57+00:00
   platform:
     darwin/arm64:
-      name:  null
-      url:   null
-      size:  null
-      score: null
+      name:  stable-macos-arm64-Gloomberb.app.zip
+      url:   https://github.com/gloom-sh/gloomberb/releases/download/v0.13.2/stable-macos-arm64-Gloomberb.app.zip
+      size:  44372576
+      score: 45
     darwin/amd64:
-      name:  null
-      url:   null
-      size:  null
-      score: null
+      name:  stable-win-x64-Gloomberb-Setup.zip
+      url:   https://github.com/gloom-sh/gloomberb/releases/download/v0.13.2/stable-win-x64-Gloomberb-Setup.zip
+      size:  301745840
+      score: 23
     linux/arm64:
-      name:  null
-      url:   null
-      size:  null
-      score: null
+      name:  gloomberb-linux-arm64.gz
+      url:   https://github.com/gloom-sh/gloomberb/releases/download/v0.13.2/gloomberb-linux-arm64.gz
+      size:  47327422
+      score: 40
     linux/amd64:
-      name:  null
-      url:   null
-      size:  null
-      score: null
+      name:  gloomberb-linux-x64.gz
+      url:   https://github.com/gloom-sh/gloomberb/releases/download/v0.13.2/gloomberb-linux-x64.gz
+      size:  47290297
+      score: 40
     win/arm64:
       name:  null
       url:   null
       size:  null
       score: null
     win/amd64:
-      name:  null
-      url:   null
-      size:  null
-      score: null
+      name:  gloomberb-windows-x64.exe.gz
+      url:   https://github.com/gloom-sh/gloomberb/releases/download/v0.13.2/gloomberb-windows-x64.exe.gz
+      size:  47493399
+      score: 40
