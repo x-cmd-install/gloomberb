@@ -2,12 +2,12 @@ about:
   description: "Finance terminal, in your terminal."
   license: NOASSERTION
   homepage: https://gloom.sh
-  head: b35b2ff
+  head: cbecc08
   archived: false
   latestVersion: "v0.13.3"
   latestRelease: "v0.13.3"
   latestPrerelease: "v0.5.0"
-  collectedAt: 2026-09-10T21:18:25Z
+  collectedAt: 2026-09-10T22:36:38Z
 timeline:
   created: 2026-03-25
   lastCommit: 2026-09-10
@@ -20,15 +20,15 @@ popularity:
   fork: 128
   release: 49
   contributor: 13
-  pullRequest: 707
+  pullRequest: 721
   issue: 69
 language:
-  TypeScript: 11966322
+  TypeScript: 12037274
   PowerShell: 51035
   CSS: 23300
   Shell: 11039
   Inno Setup: 4480
-totalBytes: 12056176
+totalBytes: 12127128
 recent:
   last30d:
     since: 2026-08-11
@@ -80,24 +80,24 @@ recent:
     commit: 0
 total:
   release: 49
-  mergedPR: 657
-  openPR: 4
+  mergedPR: 672
+  openPR: 3
   closedIssue: 60
   openIssue: 9
-  commit: 943
+  commit: 961
 ---
 path: /home/runner/.x-repo/github.com/vincelwt/gloomberb
-collectedAt: 2026-09-10T21:18:32Z
+collectedAt: 2026-09-10T22:36:41Z
 loc:
   TypeScript:
-    code: 201404
-    comments: 4536
-    blanks: 18715
-    files: 1407
+    code: 202157
+    comments: 4593
+    blanks: 18764
+    files: 1411
   Tsx:
-    code: 102115
-    comments: 1380
-    blanks: 8029
+    code: 102299
+    comments: 1394
+    blanks: 8035
     files: 473
   PowerShell:
     code: 1424
@@ -130,10 +130,10 @@ loc:
     blanks: 369
     files: 10
 total:
-  code: 307453
-  comments: 6734
-  blanks: 27430
-  files: 1912
+  code: 308390
+  comments: 6805
+  blanks: 27485
+  files: 1916
 ---
 
 ---
