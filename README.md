@@ -14,12 +14,12 @@ x install gloomberb
 
 ## Code insight
 
-Total: **306,816** lines of code across **1897** files in the top 5 languages.
+Total: **307,753** lines of code across **1901** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| TypeScript | 201,404 | 4,536 | 18,715 | 1407 |
-| Tsx | 102,115 | 1,380 | 8,029 | 473 |
+| TypeScript | 202,157 | 4,593 | 18,764 | 1411 |
+| Tsx | 102,299 | 1,394 | 8,035 | 473 |
 | PowerShell | 1,424 | 2 | 210 | 3 |
 | Json | 778 | 0 | 3 | 12 |
 | Css | 665 | 1 | 1 | 2 |
@@ -42,7 +42,7 @@ Total: **306,816** lines of code across **1897** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 49 · **Merged PRs**: 657 · **Open PRs**: 4 · **Closed issues**: 60 · **Open issues**: 9 · **Commits**: 943
+- **Releases**: 49 · **Merged PRs**: 672 · **Open PRs**: 3 · **Closed issues**: 60 · **Open issues**: 9 · **Commits**: 961
 
 ## Recent activity
 
@@ -83,4 +83,4 @@ Install metadata for gloomberb lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T21:18:48Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T22:36:47Z._
