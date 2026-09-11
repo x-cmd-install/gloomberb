@@ -14,12 +14,12 @@ x install gloomberb
 
 ## Code insight
 
-Total: **308,059** lines of code across **1906** files in the top 5 languages.
+Total: **312,994** lines of code across **1945** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| TypeScript | 202,477 | 4,607 | 18,780 | 1416 |
-| Tsx | 102,285 | 1,389 | 8,033 | 473 |
+| TypeScript | 206,954 | 4,823 | 19,080 | 1452 |
+| Tsx | 102,743 | 1,426 | 8,052 | 476 |
 | PowerShell | 1,424 | 2 | 210 | 3 |
 | Json | 778 | 0 | 3 | 12 |
 | Css | 665 | 1 | 1 | 2 |
@@ -33,16 +33,16 @@ Total: **308,059** lines of code across **1906** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.13.3` (2026-09-08)
-- **Last commit**: 2026-09-10
+- **Last commit**: 2026-09-11
 - **Assets in release**: 14
 
 ## Popularity
 
-- **Stars**: 2,123 · **Forks**: 128 · **Open issues**: 69 · **Contributors**: 13
+- **Stars**: 2,130 · **Forks**: 128 · **Open issues**: 69 · **Contributors**: 13
 
 ## Totals (cumulative)
 
-- **Releases**: 49 · **Merged PRs**: 673 · **Open PRs**: 2 · **Closed issues**: 60 · **Open issues**: 9 · **Commits**: 962
+- **Releases**: 49 · **Merged PRs**: 713 · **Open PRs**: 2 · **Closed issues**: 60 · **Open issues**: 9 · **Commits**: 1011
 
 ## Recent activity
 
@@ -83,4 +83,4 @@ Install metadata for gloomberb lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260911.yml` · 2026-09-11T04:34:54Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T20:37:54Z._
