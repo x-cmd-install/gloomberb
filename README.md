@@ -14,12 +14,12 @@ x install gloomberb
 
 ## Code insight
 
-Total: **307,753** lines of code across **1901** files in the top 5 languages.
+Total: **308,059** lines of code across **1906** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| TypeScript | 202,157 | 4,593 | 18,764 | 1411 |
-| Tsx | 102,299 | 1,394 | 8,035 | 473 |
+| TypeScript | 202,477 | 4,607 | 18,780 | 1416 |
+| Tsx | 102,285 | 1,389 | 8,033 | 473 |
 | PowerShell | 1,424 | 2 | 210 | 3 |
 | Json | 778 | 0 | 3 | 12 |
 | Css | 665 | 1 | 1 | 2 |
@@ -42,18 +42,18 @@ Total: **307,753** lines of code across **1901** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 49 · **Merged PRs**: 672 · **Open PRs**: 3 · **Closed issues**: 60 · **Open issues**: 9 · **Commits**: 961
+- **Releases**: 49 · **Merged PRs**: 673 · **Open PRs**: 2 · **Closed issues**: 60 · **Open issues**: 9 · **Commits**: 962
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 9 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-12 | 15 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-12 | 20 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-03-14 | 49 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-09-15 | 49 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-09-20 | 49 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-08-12 | 9 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-13 | 15 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-13 | 20 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-03-15 | 49 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-09-16 | 49 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-09-21 | 49 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release assets
 
@@ -83,4 +83,4 @@ Install metadata for gloomberb lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T22:36:47Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T04:34:54Z._
