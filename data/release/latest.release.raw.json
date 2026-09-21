@@ -33,7 +33,7 @@
   "immutable": false,
   "prerelease": false,
   "created_at": "2026-09-19T16:57:08Z",
-  "updated_at": "2026-09-19T19:06:12Z",
+  "updated_at": "2026-09-20T21:54:52Z",
   "published_at": "2026-09-19T17:10:15Z",
   "assets": [
     {
@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 25359001,
       "digest": "sha256:0fe91fadd4ed3b67b602eb7ebb2124de79f868bd934ffcabb5a95000d3996b8b",
-      "download_count": 1,
+      "download_count": 3,
       "created_at": "2026-09-19T19:05:56Z",
       "updated_at": "2026-09-19T19:05:58Z",
       "browser_download_url": "https://github.com/gloom-sh/gloomberb/releases/download/v0.14.1/gloomberb-darwin-arm64.gz"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 27736770,
       "digest": "sha256:3d8d108c1076579115887dd4789d0be15a49f82e3fce0f0cc9a0647c58abdefd",
-      "download_count": 0,
+      "download_count": 2,
       "created_at": "2026-09-19T19:05:55Z",
       "updated_at": "2026-09-19T19:05:58Z",
       "browser_download_url": "https://github.com/gloom-sh/gloomberb/releases/download/v0.14.1/gloomberb-darwin-x64.gz"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 46200325,
       "digest": "sha256:8722057a3d7c231ea789cb6ac377a45ee7541ebc9583b8dab57e77fcb881895c",
-      "download_count": 3,
+      "download_count": 4,
       "created_at": "2026-09-19T19:05:55Z",
       "updated_at": "2026-09-19T19:05:59Z",
       "browser_download_url": "https://github.com/gloom-sh/gloomberb/releases/download/v0.14.1/gloomberb-linux-arm64.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 46166124,
       "digest": "sha256:3a027f96f950ebf9a9f9246ffa847b54bd3b52a24d94e3d13eeb323f11f8d8ca",
-      "download_count": 9,
+      "download_count": 39,
       "created_at": "2026-09-19T19:05:56Z",
       "updated_at": "2026-09-19T19:05:59Z",
       "browser_download_url": "https://github.com/gloom-sh/gloomberb/releases/download/v0.14.1/gloomberb-linux-x64.gz"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 30779912,
       "digest": "sha256:f436e1188c1e703e0ab63a8e48771d2afa01366fa810c4317bf64223e68ddd85",
-      "download_count": 3,
+      "download_count": 18,
       "created_at": "2026-09-19T19:05:56Z",
       "updated_at": "2026-09-19T19:05:58Z",
       "browser_download_url": "https://github.com/gloom-sh/gloomberb/releases/download/v0.14.1/stable-macos-arm64-Gloomberb.app.tar.zst"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 42594149,
       "digest": "sha256:f33010efb95a97123245dc1a33138d3a130b63783f1c0cecb118640f7c77e06e",
-      "download_count": 8,
+      "download_count": 53,
       "created_at": "2026-09-19T19:05:56Z",
       "updated_at": "2026-09-19T19:05:59Z",
       "browser_download_url": "https://github.com/gloom-sh/gloomberb/releases/download/v0.14.1/stable-macos-arm64-Gloomberb.app.zip"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 31648314,
       "digest": "sha256:bae682bf5ed5b07a9e9dc7282eaf02f4ff1fd8cc427c6807b33347b086cfc9dc",
-      "download_count": 270,
+      "download_count": 967,
       "created_at": "2026-09-19T19:05:55Z",
       "updated_at": "2026-09-19T19:05:58Z",
       "browser_download_url": "https://github.com/gloom-sh/gloomberb/releases/download/v0.14.1/stable-macos-arm64-Gloomberb.dmg"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 77,
       "digest": "sha256:24cb39d34bc851a9398e4cc18fe024e4b84290284ee82e1480347de46af247fe",
-      "download_count": 59,
+      "download_count": 221,
       "created_at": "2026-09-19T19:05:56Z",
       "updated_at": "2026-09-19T19:05:56Z",
       "browser_download_url": "https://github.com/gloom-sh/gloomberb/releases/download/v0.14.1/stable-macos-arm64-update.json"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 300431289,
       "digest": "sha256:1d0505e7e593bd03f0ae24c1bfe65e3deba623e104ea2b499aab7fe030804f89",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2026-09-19T19:05:56Z",
       "updated_at": "2026-09-19T19:06:09Z",
       "browser_download_url": "https://github.com/gloom-sh/gloomberb/releases/download/v0.14.1/stable-win-x64-Gloomberb-Setup.zip"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 300457546,
       "digest": "sha256:fb1e09af63f3b8caef3ac829737f5794e255bfe53148c1f267bcc9ee09da5717",
-      "download_count": 2,
+      "download_count": 4,
       "created_at": "2026-09-19T19:05:56Z",
       "updated_at": "2026-09-19T19:06:12Z",
       "browser_download_url": "https://github.com/gloom-sh/gloomberb/releases/download/v0.14.1/stable-win-x64-Gloomberb.tar.zst"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 278153033,
       "digest": "sha256:3e7c71c5953d054a54186708c8d59dcd86016052f643f444638de59a79892351",
-      "download_count": 286,
+      "download_count": 873,
       "created_at": "2026-09-19T19:05:55Z",
       "updated_at": "2026-09-19T19:06:11Z",
       "browser_download_url": "https://github.com/gloom-sh/gloomberb/releases/download/v0.14.1/stable-win-x64-GloomberbSetup.exe"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 73,
       "digest": "sha256:95ca5e138612fd690a6ef8c68b7245f84778939ec8d96d5f9c9599a6d6e0140c",
-      "download_count": 6,
+      "download_count": 18,
       "created_at": "2026-09-19T19:05:55Z",
       "updated_at": "2026-09-19T19:05:56Z",
       "browser_download_url": "https://github.com/gloom-sh/gloomberb/releases/download/v0.14.1/stable-win-x64-update.json"
@@ -543,5 +543,5 @@
   ],
   "tarball_url": "https://api.github.com/repos/gloom-sh/gloomberb/tarball/v0.14.1",
   "zipball_url": "https://api.github.com/repos/gloom-sh/gloomberb/zipball/v0.14.1",
-  "body": "## Highlights\n\n- **Keybindings are yours.** Every global and pane key lives in one table you can rebind from the Help pane, the command bar, or `gloomberb config set keybindings.*`. Any command bar text can go on a chord, so `F5` can be `CN` and `Alt+1` can be `DES AAPL`. (#933, #934)\n- **A broken plugin no longer stops the app.** A plugin in `~/.gloomberb/plugins` with a reserved or duplicate id, or one whose `setup()` throws, used to take the whole launch down with a stack trace. It is now reported as failed in the Plugins pane, with the reason, and everything else starts. (#932)\n- **Move your data folder.** `GLOOMBERB_HOME` relocates the whole `~/.gloomberb` folder: config, database, plugins, and plugin cache. (#932)\n- **TV stops burning a core.** A player stranded by a reload kept decoding video and writing frames with no pane open anywhere. Both hosts now reap a stranded player at startup, and playback no longer decodes more than the pane can show. (#937)\n- **Analyst targets get a chart.** The pane's context moves into the status bar, arrows walk the rows again, and the space that frees up plots the consensus target rebuilt from the dated targets in the ratings history. (#939)\n\n## Keybindings\n\n- Core keys are configurable through a keybinding table, editable from Help, the command bar's bind row, and the CLI. `config.json` takes `keybindings.actions` (by action id, including `plugin:<shortcut id>`) and `keybindings.commands` (chord to command bar text). (#933)\n- Command chords need Ctrl, Cmd, Alt or a function key so they never fire mid-typing, and Control chords yield to a focused text field. (#933)\n- Ticker search stays on the backtick alone; rebind it if that key is awkward on your layout. (#934)\n\n## Panes and charts\n\n- Analyst consensus context moves to the status bar, with a target chart rebuilt from dated ratings history. (#939)\n- Jobs adds evergreen and contract shares, with `N specific` open roles on a roomy column. (#940)\n- The chat sidebar gets consistent sections, a foldable public channel list, and a drag handle to resize it. (#941)\n- Help renders its shortcut and function lists as real tables on the shared kit. (#938, #944)\n- Price-only charts adopt the source's real interval list, and Auto steps down when a range preset's interval is unsupported. (#935, #936)\n- Disclosure chevrons stay inside their cell and sit centred between the row edge and the label. (#942, #943)\n\n## Plugins, installs and updates\n\n- An external plugin that cannot register is marked failed with its reason instead of failing the launch; a built-in that cannot register still stops startup, because that is a bug in this repository. (#932)\n- `GLOOMBERB_HOME` moves the config, data directory, plugins, plugin cache and terminal media state together. A moved `config.json` that still names the old data directory is corrected on the first launch. (#932)\n- An install this process cannot write to, such as a Nix store path or a distro package, is reported as package managed: the header says to update through whatever installed Gloomberb rather than failing with a read-only filesystem error. (#932)\n- The Homebrew cask no longer passes the parameter Homebrew deprecated, so `brew cleanup` stops warning. (#932)\n\n## Terminal\n\n- A TV player stranded by a watch reload is reaped at startup from both the terminal host and the desktop process, and only when it has actually been orphaned, so a second window never stops the first one's playback. (#937)\n\n[Full diff](https://github.com/gloom-sh/gloomberb/compare/v0.14.0...v0.14.1)\n"
+  "body": "## Highlights\n\n- **Keybindings are yours.** Rebind every global and pane key from the Help pane, the command bar, or `gloomberb config set keybindings.*`. Any command bar text can go on a chord, so `F5` can be `CN` and `Alt+1` can be `DES AAPL`. (#933, #934)\n- **A broken plugin no longer stops the app.** A plugin that fails to register is marked failed in the Plugins pane, with the reason, and everything else starts. (#932)\n- **Move your data folder.** `GLOOMBERB_HOME` relocates the whole `~/.gloomberb` folder: config, database, plugins and plugin cache. (#932)\n- **TV stops burning a core.** A player stranded by a reload is reaped at startup, and playback no longer decodes more than the pane can show. (#937)\n- **Analyst targets get a chart.** The consensus target is plotted from the dated targets in the ratings history, and the pane's context moves to the status bar. (#939)\n\n## Also in this release\n\n- Jobs adds evergreen and contract shares and an open roles column. (#940)\n- The chat sidebar gets consistent sections, a foldable channel list and a drag handle. (#941)\n- Help renders its shortcut and function lists as real tables. (#938, #944)\n- Price-only charts use the source's real interval list, and Auto steps down when a preset's interval is unsupported. (#935, #936)\n- Package-managed installs (Nix, distro packages) say to update through the package manager instead of failing on a read-only filesystem. (#932)\n\n[Full diff](https://github.com/gloom-sh/gloomberb/compare/v0.14.0...v0.14.1)\n"
 }
