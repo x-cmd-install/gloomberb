@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 25712300,
       "digest": "sha256:46175f5b6b17f2b10eb0be012635d9d2fea73de1a7b26a0fb155468a2a5d7a72",
-      "download_count": 1,
+      "download_count": 4,
       "created_at": "2026-09-24T23:32:09Z",
       "updated_at": "2026-09-24T23:32:11Z",
       "browser_download_url": "https://github.com/gloom-sh/gloomberb/releases/download/v0.15.2/gloomberb-darwin-arm64.gz"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 28094062,
       "digest": "sha256:be646aaec25462fd1f0a780433d579e5dd98c2dfcbf672ac832bcd1b7a4c725f",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2026-09-24T23:32:08Z",
       "updated_at": "2026-09-24T23:32:11Z",
       "browser_download_url": "https://github.com/gloom-sh/gloomberb/releases/download/v0.15.2/gloomberb-darwin-x64.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 46518437,
       "digest": "sha256:bc495a93dc1e8fa2373cb6c580f51bf81a4335c31c7232c736b997ec183eb77c",
-      "download_count": 32,
+      "download_count": 48,
       "created_at": "2026-09-24T23:32:09Z",
       "updated_at": "2026-09-24T23:32:12Z",
       "browser_download_url": "https://github.com/gloom-sh/gloomberb/releases/download/v0.15.2/gloomberb-linux-x64.gz"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 33060982,
       "digest": "sha256:6c731c117964ed8d0457f75c94ac4be0e833fe95e1e10f9223ffea48b0b38204",
-      "download_count": 39,
+      "download_count": 48,
       "created_at": "2026-09-24T23:32:09Z",
       "updated_at": "2026-09-24T23:32:12Z",
       "browser_download_url": "https://github.com/gloom-sh/gloomberb/releases/download/v0.15.2/stable-macos-arm64-Gloomberb.app.tar.zst"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 45721490,
       "digest": "sha256:756e04a63d500b3d4b637c8e52789afd175c7e46e408902b8696af745a686f7b",
-      "download_count": 107,
+      "download_count": 146,
       "created_at": "2026-09-24T23:32:08Z",
       "updated_at": "2026-09-24T23:32:12Z",
       "browser_download_url": "https://github.com/gloom-sh/gloomberb/releases/download/v0.15.2/stable-macos-arm64-Gloomberb.app.zip"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 34014068,
       "digest": "sha256:634adc79d80ef6602f7e8b028c76ffae7e24cd05c306d9c30d7ca30c357799e5",
-      "download_count": 524,
+      "download_count": 790,
       "created_at": "2026-09-24T23:32:08Z",
       "updated_at": "2026-09-24T23:32:12Z",
       "browser_download_url": "https://github.com/gloom-sh/gloomberb/releases/download/v0.15.2/stable-macos-arm64-Gloomberb.dmg"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 77,
       "digest": "sha256:909b27d1039a888e6d5368565beae9ec45b07cf4080c86d1e8cfbb5de448d1fc",
-      "download_count": 224,
+      "download_count": 397,
       "created_at": "2026-09-24T23:32:08Z",
       "updated_at": "2026-09-24T23:32:09Z",
       "browser_download_url": "https://github.com/gloom-sh/gloomberb/releases/download/v0.15.2/stable-macos-arm64-update.json"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 280383694,
       "digest": "sha256:c7be113e1b719c2a3f4dcf527f9ab8865c219a7b5daef585f17df1ddbb2e2628",
-      "download_count": 226,
+      "download_count": 326,
       "created_at": "2026-09-24T23:32:09Z",
       "updated_at": "2026-09-24T23:32:23Z",
       "browser_download_url": "https://github.com/gloom-sh/gloomberb/releases/download/v0.15.2/stable-win-x64-GloomberbSetup.exe"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 73,
       "digest": "sha256:91c6a6debadae70a2ccf5f5e41e309d356996268e17320d13a053bf1fec5e4fc",
-      "download_count": 15,
+      "download_count": 26,
       "created_at": "2026-09-24T23:32:08Z",
       "updated_at": "2026-09-24T23:32:09Z",
       "browser_download_url": "https://github.com/gloom-sh/gloomberb/releases/download/v0.15.2/stable-win-x64-update.json"
