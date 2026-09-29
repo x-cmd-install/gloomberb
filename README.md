@@ -14,13 +14,13 @@ x install gloomberb
 
 ## Code insight
 
-Total: **403,159** lines of code across **2628** files in the top 5 languages.
+Total: **406,378** lines of code across **2659** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| TypeScript | 266,318 | 13,596 | 23,630 | 1958 |
-| Tsx | 131,528 | 5,070 | 9,432 | 647 |
-| Json | 2,020 | 0 | 3 | 17 |
+| TypeScript | 268,409 | 14,089 | 23,897 | 1977 |
+| Tsx | 132,654 | 5,230 | 9,522 | 659 |
+| Json | 2,022 | 0 | 3 | 17 |
 | PowerShell | 1,903 | 19 | 237 | 4 |
 | Css | 1,042 | 67 | 20 | 2 |
 
@@ -38,22 +38,22 @@ Total: **403,159** lines of code across **2628** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 2,247 · **Forks**: 139 · **Open issues**: 76 · **Contributors**: 15
+- **Stars**: 2,261 · **Forks**: 142 · **Open issues**: 76 · **Contributors**: 15
 
 ## Totals (cumulative)
 
-- **Releases**: 54 · **Merged PRs**: 1045 · **Open PRs**: 23 · **Closed issues**: 74 · **Open issues**: 2 · **Commits**: 1628
+- **Releases**: 54 · **Merged PRs**: 1075 · **Open PRs**: 3 · **Closed issues**: 74 · **Open issues**: 2 · **Commits**: 1663
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-29 | 10 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-30 | 17 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-30 | 22 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-04-01 | 52 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-10-03 | 54 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-10-08 | 54 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-08-30 | 9 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-31 | 17 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-07-01 | 21 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-04-02 | 52 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-10-04 | 54 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-10-09 | 54 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release assets
 
@@ -83,4 +83,4 @@ Install metadata for gloomberb lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260928.yml` · 2026-09-28T05:13:53Z._
+_Snapshot: `data/card/260929.yml` · 2026-09-29T05:35:58Z._
