@@ -14,13 +14,13 @@ x install gloomberb
 
 ## 代码洞察
 
-合计: **406,378** 行代码（覆盖前 5 种语言、共 **2659** 个文件）。
+合计: **413,161** 行代码（覆盖前 5 种语言、共 **2706** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| TypeScript | 268,409 | 14,089 | 23,897 | 1977 |
-| Tsx | 132,654 | 5,230 | 9,522 | 659 |
-| Json | 2,022 | 0 | 3 | 17 |
+| TypeScript | 272,797 | 14,800 | 24,315 | 2012 |
+| Tsx | 135,050 | 5,373 | 9,706 | 671 |
+| Json | 2,021 | 0 | 3 | 17 |
 | PowerShell | 1,903 | 19 | 237 | 4 |
 | Css | 1,042 | 67 | 20 | 2 |
 
@@ -32,47 +32,47 @@ x install gloomberb
 
 ## 发布
 
-- **最新版本**: `v0.15.2` (2026-09-24)
-- **最近提交**: 2026-09-28
+- **最新版本**: `v0.15.3` (2026-09-29)
+- **最近提交**: 2026-09-29
 - **Release 含资产**: 14 个
 
 ## 流行度
 
-- **Star**: 2,261 · **Fork**: 142 · **开放 issue**: 76 · **贡献者**: 15
+- **Star**: 2,299 · **Fork**: 152 · **开放 issue**: 76 · **贡献者**: 15
 
 ## 累计统计
 
-- **发布数**: 54 · **已合并 PR**: 1075 · **开放 PR**: 3 · **已关闭 issue**: 74 · **开放 issue**: 2 · **提交数**: 1663
+- **发布数**: 55 · **已合并 PR**: 1094 · **开放 PR**: 3 · **已关闭 issue**: 74 · **开放 issue**: 2 · **提交数**: 1684
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-30 | 9 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-31 | 17 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-07-01 | 21 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-04-02 | 52 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-10-04 | 54 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-10-09 | 54 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-08-31 | 10 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-08-01 | 16 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-07-02 | 22 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-04-03 | 53 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-10-05 | 55 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-10-10 | 55 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [gloomberb-darwin-arm64.gz](https://github.com/vincelwt/gloomberb/releases/download/v0.15.2/gloomberb-darwin-arm64.gz) | 24.5 MiB | `native/darwin/arm64` |
-| [gloomberb-darwin-x64.gz](https://github.com/vincelwt/gloomberb/releases/download/v0.15.2/gloomberb-darwin-x64.gz) | 26.8 MiB | `native/darwin/x64` |
-| [gloomberb-linux-arm64.gz](https://github.com/vincelwt/gloomberb/releases/download/v0.15.2/gloomberb-linux-arm64.gz) | 44.4 MiB | `native/linux/arm64` |
-| [gloomberb-linux-x64.gz](https://github.com/vincelwt/gloomberb/releases/download/v0.15.2/gloomberb-linux-x64.gz) | 44.4 MiB | `other` |
-| [gloomberb-windows-x64.exe.gz](https://github.com/vincelwt/gloomberb/releases/download/v0.15.2/gloomberb-windows-x64.exe.gz) | 44.5 MiB | `native/win/x64` |
-| [GloomberbSetup.exe](https://github.com/vincelwt/gloomberb/releases/download/v0.15.2/GloomberbSetup.exe) | 267.4 MiB | `other` |
-| [stable-macos-arm64-Gloomberb.app.tar.zst](https://github.com/vincelwt/gloomberb/releases/download/v0.15.2/stable-macos-arm64-Gloomberb.app.tar.zst) | 31.5 MiB | `native/darwin/arm64` |
-| [stable-macos-arm64-Gloomberb.app.zip](https://github.com/vincelwt/gloomberb/releases/download/v0.15.2/stable-macos-arm64-Gloomberb.app.zip) | 43.6 MiB | `native/darwin/arm64` |
-| [stable-macos-arm64-Gloomberb.dmg](https://github.com/vincelwt/gloomberb/releases/download/v0.15.2/stable-macos-arm64-Gloomberb.dmg) | 32.4 MiB | `native/darwin/arm64` |
-| [stable-macos-arm64-update.json](https://github.com/vincelwt/gloomberb/releases/download/v0.15.2/stable-macos-arm64-update.json) | 77 B | `native/darwin/arm64` |
-| [stable-win-x64-Gloomberb-Setup.zip](https://github.com/vincelwt/gloomberb/releases/download/v0.15.2/stable-win-x64-Gloomberb-Setup.zip) | 288.7 MiB | `other` |
-| [stable-win-x64-Gloomberb.tar.zst](https://github.com/vincelwt/gloomberb/releases/download/v0.15.2/stable-win-x64-Gloomberb.tar.zst) | 288.7 MiB | `other` |
-| [stable-win-x64-GloomberbSetup.exe](https://github.com/vincelwt/gloomberb/releases/download/v0.15.2/stable-win-x64-GloomberbSetup.exe) | 267.4 MiB | `other` |
-| [stable-win-x64-update.json](https://github.com/vincelwt/gloomberb/releases/download/v0.15.2/stable-win-x64-update.json) | 73 B | `other` |
+| [gloomberb-darwin-arm64.gz](https://github.com/vincelwt/gloomberb/releases/download/v0.15.3/gloomberb-darwin-arm64.gz) | 24.6 MiB | `native/darwin/arm64` |
+| [gloomberb-darwin-x64.gz](https://github.com/vincelwt/gloomberb/releases/download/v0.15.3/gloomberb-darwin-x64.gz) | 26.9 MiB | `native/darwin/x64` |
+| [gloomberb-linux-arm64.gz](https://github.com/vincelwt/gloomberb/releases/download/v0.15.3/gloomberb-linux-arm64.gz) | 44.4 MiB | `native/linux/arm64` |
+| [gloomberb-linux-x64.gz](https://github.com/vincelwt/gloomberb/releases/download/v0.15.3/gloomberb-linux-x64.gz) | 44.4 MiB | `other` |
+| [gloomberb-windows-x64.exe.gz](https://github.com/vincelwt/gloomberb/releases/download/v0.15.3/gloomberb-windows-x64.exe.gz) | 44.6 MiB | `native/win/x64` |
+| [GloomberbSetup.exe](https://github.com/vincelwt/gloomberb/releases/download/v0.15.3/GloomberbSetup.exe) | 267.8 MiB | `other` |
+| [stable-macos-arm64-Gloomberb.app.tar.zst](https://github.com/vincelwt/gloomberb/releases/download/v0.15.3/stable-macos-arm64-Gloomberb.app.tar.zst) | 32.2 MiB | `native/darwin/arm64` |
+| [stable-macos-arm64-Gloomberb.app.zip](https://github.com/vincelwt/gloomberb/releases/download/v0.15.3/stable-macos-arm64-Gloomberb.app.zip) | 44.5 MiB | `native/darwin/arm64` |
+| [stable-macos-arm64-Gloomberb.dmg](https://github.com/vincelwt/gloomberb/releases/download/v0.15.3/stable-macos-arm64-Gloomberb.dmg) | 33.3 MiB | `native/darwin/arm64` |
+| [stable-macos-arm64-update.json](https://github.com/vincelwt/gloomberb/releases/download/v0.15.3/stable-macos-arm64-update.json) | 77 B | `native/darwin/arm64` |
+| [stable-win-x64-Gloomberb-Setup.zip](https://github.com/vincelwt/gloomberb/releases/download/v0.15.3/stable-win-x64-Gloomberb-Setup.zip) | 289.2 MiB | `other` |
+| [stable-win-x64-Gloomberb.tar.zst](https://github.com/vincelwt/gloomberb/releases/download/v0.15.3/stable-win-x64-Gloomberb.tar.zst) | 289.3 MiB | `other` |
+| [stable-win-x64-GloomberbSetup.exe](https://github.com/vincelwt/gloomberb/releases/download/v0.15.3/stable-win-x64-GloomberbSetup.exe) | 267.8 MiB | `other` |
+| [stable-win-x64-update.json](https://github.com/vincelwt/gloomberb/releases/download/v0.15.3/stable-win-x64-update.json) | 73 B | `other` |
 
 ## 改进这些数据
 
@@ -83,4 +83,4 @@ gloomberb 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260929.yml` · 2026-09-29T05:35:58Z._
+_数据快照: `data/card/260930.yml` · 2026-09-30T05:25:10Z._
