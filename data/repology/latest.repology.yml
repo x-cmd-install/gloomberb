@@ -2,8 +2,8 @@
   srcname: gloomberb-bin
   binname: gloomberb-bin
   visiblename: gloomberb-bin
-  version: 0.18.4
-  origversion: 0.18.4-1
+  version: 0.18.5
+  origversion: 0.18.5-1
   status: newest
   summary: Finance terminal, in your terminal
   maintainers:
@@ -13,7 +13,7 @@
 - repo: homebrew_casks
   srcname: gloomberb
   visiblename: Gloomberb
-  version: 0.18.4
+  version: 0.18.5
   origversion: null
   status: newest
   summary: Finance terminal
