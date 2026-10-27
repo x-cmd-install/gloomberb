@@ -33,7 +33,7 @@
   "immutable": false,
   "prerelease": false,
   "created_at": "2026-10-25T14:20:25Z",
-  "updated_at": "2026-10-25T14:37:15Z",
+  "updated_at": "2026-10-26T17:47:26Z",
   "published_at": "2026-10-25T14:37:15Z",
   "assets": [
     {
@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 31207230,
       "digest": "sha256:1ff1e8d33f8eb9f181b9b23d76259afc50396cf893e962e336732c1d365f2dbc",
-      "download_count": 1,
+      "download_count": 3,
       "created_at": "2026-10-25T14:36:49Z",
       "updated_at": "2026-10-25T14:36:53Z",
       "browser_download_url": "https://github.com/gloom-sh/gloomberb/releases/download/v0.18.5/gloomberb-darwin-arm64.gz"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 33634693,
       "digest": "sha256:539715996b2cd7d12b673a221c8ab7d17949265c24d413ebe1a75bc4034cd7c5",
-      "download_count": 0,
+      "download_count": 5,
       "created_at": "2026-10-25T14:36:49Z",
       "updated_at": "2026-10-25T14:36:53Z",
       "browser_download_url": "https://github.com/gloom-sh/gloomberb/releases/download/v0.18.5/gloomberb-darwin-x64.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 52026570,
       "digest": "sha256:bd92fdd4c846a627fe8a128fb013d356c823561482f47921a4693341a7bb6d71",
-      "download_count": 4,
+      "download_count": 5,
       "created_at": "2026-10-25T14:36:49Z",
       "updated_at": "2026-10-25T14:36:55Z",
       "browser_download_url": "https://github.com/gloom-sh/gloomberb/releases/download/v0.18.5/gloomberb-linux-arm64.gz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 50078421,
       "digest": "sha256:9f95af77bf0b7cd9fb196278e291cd2530848ba0d5d4e9001c3e42b5e8b48dc2",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2026-10-25T14:36:49Z",
       "updated_at": "2026-10-25T14:36:55Z",
       "browser_download_url": "https://github.com/gloom-sh/gloomberb/releases/download/v0.18.5/gloomberb-linux-x64-musl.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 51990150,
       "digest": "sha256:ee4d66f34ea40794d6f596d4ee2c62d6a7756113d659c7c82d541b90f043be74",
-      "download_count": 15,
+      "download_count": 50,
       "created_at": "2026-10-25T14:36:49Z",
       "updated_at": "2026-10-25T14:36:55Z",
       "browser_download_url": "https://github.com/gloom-sh/gloomberb/releases/download/v0.18.5/gloomberb-linux-x64.gz"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 52372994,
       "digest": "sha256:d371258f98b9a36ec5a6abdcbdaa10ff1ad425144853ed1d4973485f57062a80",
-      "download_count": 2,
+      "download_count": 5,
       "created_at": "2026-10-25T14:36:49Z",
       "updated_at": "2026-10-25T14:36:55Z",
       "browser_download_url": "https://github.com/gloom-sh/gloomberb/releases/download/v0.18.5/gloomberb-windows-x64.exe.gz"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 293067151,
       "digest": "sha256:2fba528b061623dc8ecf6c8c519c08d6a2618d8341b2aa09b32b1c1b555117d6",
-      "download_count": 0,
+      "download_count": 4,
       "created_at": "2026-10-25T14:36:49Z",
       "updated_at": "2026-10-25T14:37:09Z",
       "browser_download_url": "https://github.com/gloom-sh/gloomberb/releases/download/v0.18.5/GloomSetup.exe"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 46177716,
       "digest": "sha256:5e2a0fbaa887837380ea33034d794da45cd1d0da47651b35adf1b046a718c9e4",
-      "download_count": 1,
+      "download_count": 2,
       "created_at": "2026-10-25T14:36:49Z",
       "updated_at": "2026-10-25T14:36:55Z",
       "browser_download_url": "https://github.com/gloom-sh/gloomberb/releases/download/v0.18.5/stable-macos-arm64-Gloom.app.tar.zst"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 61795162,
       "digest": "sha256:c4ded311392af6c67d20a330c94b24e13e40bdc93eb686fa97830c4f90f8ad29",
-      "download_count": 5,
+      "download_count": 10,
       "created_at": "2026-10-25T14:36:49Z",
       "updated_at": "2026-10-25T14:36:55Z",
       "browser_download_url": "https://github.com/gloom-sh/gloomberb/releases/download/v0.18.5/stable-macos-arm64-Gloom.app.zip"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 47310011,
       "digest": "sha256:4e85be1c086a0667e8b412ef69db008b097d92c8c320467a5650ce22ec9c853f",
-      "download_count": 29,
+      "download_count": 44,
       "created_at": "2026-10-25T14:36:49Z",
       "updated_at": "2026-10-25T14:36:56Z",
       "browser_download_url": "https://github.com/gloom-sh/gloomberb/releases/download/v0.18.5/stable-macos-arm64-Gloom.dmg"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 46177716,
       "digest": "sha256:5e2a0fbaa887837380ea33034d794da45cd1d0da47651b35adf1b046a718c9e4",
-      "download_count": 22,
+      "download_count": 58,
       "created_at": "2026-10-25T14:36:49Z",
       "updated_at": "2026-10-25T14:36:55Z",
       "browser_download_url": "https://github.com/gloom-sh/gloomberb/releases/download/v0.18.5/stable-macos-arm64-Gloomberb.app.tar.zst"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 61797178,
       "digest": "sha256:8db6b406887e58813a268663dc53b67a67b515c12ef8ef18696d0bcfa0b124f4",
-      "download_count": 65,
+      "download_count": 134,
       "created_at": "2026-10-25T14:36:49Z",
       "updated_at": "2026-10-25T14:36:55Z",
       "browser_download_url": "https://github.com/gloom-sh/gloomberb/releases/download/v0.18.5/stable-macos-arm64-Gloomberb.app.zip"
@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 76,
       "digest": "sha256:a882135637bf943d66a49fffd7f730f4a2de73d840fa638e9893cbc1c1d78425",
-      "download_count": 58,
+      "download_count": 285,
       "created_at": "2026-10-25T14:36:49Z",
       "updated_at": "2026-10-25T14:36:49Z",
       "browser_download_url": "https://github.com/gloom-sh/gloomberb/releases/download/v0.18.5/stable-macos-arm64-update.json"
@@ -607,7 +607,7 @@
       "state": "uploaded",
       "size": 315688418,
       "digest": "sha256:b9c40d35738db9e2be2708213d0a92a666fb53528681043f1f57bc2326851517",
-      "download_count": 1,
+      "download_count": 2,
       "created_at": "2026-10-25T14:36:49Z",
       "updated_at": "2026-10-25T14:37:07Z",
       "browser_download_url": "https://github.com/gloom-sh/gloomberb/releases/download/v0.18.5/stable-win-x64-Gloom-Setup.zip"
@@ -679,7 +679,7 @@
       "state": "uploaded",
       "size": 394800316,
       "digest": "sha256:15e3269ce3c38aaf990c2c262594b1e0e97a5f877cbeb8c9f07e9dda36313b60",
-      "download_count": 8,
+      "download_count": 13,
       "created_at": "2026-10-25T14:36:49Z",
       "updated_at": "2026-10-25T14:37:14Z",
       "browser_download_url": "https://github.com/gloom-sh/gloomberb/releases/download/v0.18.5/stable-win-x64-Gloomberb.tar.zst"
@@ -715,7 +715,7 @@
       "state": "uploaded",
       "size": 293067151,
       "digest": "sha256:2fba528b061623dc8ecf6c8c519c08d6a2618d8341b2aa09b32b1c1b555117d6",
-      "download_count": 92,
+      "download_count": 107,
       "created_at": "2026-10-25T14:36:49Z",
       "updated_at": "2026-10-25T14:37:07Z",
       "browser_download_url": "https://github.com/gloom-sh/gloomberb/releases/download/v0.18.5/stable-win-x64-GloomberbSetup.exe"
@@ -751,7 +751,7 @@
       "state": "uploaded",
       "size": 293067151,
       "digest": "sha256:2fba528b061623dc8ecf6c8c519c08d6a2618d8341b2aa09b32b1c1b555117d6",
-      "download_count": 225,
+      "download_count": 667,
       "created_at": "2026-10-25T14:36:49Z",
       "updated_at": "2026-10-25T14:37:08Z",
       "browser_download_url": "https://github.com/gloom-sh/gloomberb/releases/download/v0.18.5/stable-win-x64-GloomSetup.exe"
@@ -787,7 +787,7 @@
       "state": "uploaded",
       "size": 73,
       "digest": "sha256:d65d4c34fc5c9d0cd4c50965a644348c5419b8df9167f54a9121d563036f3dce",
-      "download_count": 37,
+      "download_count": 129,
       "created_at": "2026-10-25T14:36:49Z",
       "updated_at": "2026-10-25T14:36:49Z",
       "browser_download_url": "https://github.com/gloom-sh/gloomberb/releases/download/v0.18.5/stable-win-x64-update.json"
@@ -795,5 +795,5 @@
   ],
   "tarball_url": "https://api.github.com/repos/gloom-sh/gloomberb/tarball/v0.18.5",
   "zipball_url": "https://api.github.com/repos/gloom-sh/gloomberb/zipball/v0.18.5",
-  "body": "## Highlights\n\n- **A live scanner.** `SCAN` watches intraday conditions you set across US stocks, an index, a sector or a watchlist, and can alert you on a new match. (#2221)\n- **BTC and ETH options.** `options BTC-USD`, `OPX` and `OVDV` now cover bitcoin and ether options, with the DVOL volatility index. (#2129)\n- **Valuation and technical alerts.** `ALRT` and `gloom alerts add` can fire on P/E, P/S, RSI, moving-average crosses and a close against a moving average.\n- **Daily valuation charts.** `GE AAPL` charts P/E, EV/EBITDA and other multiples day by day, with average and standard deviation guides.\n- **The desktop app is now called Gloom.** Existing macOS and Windows installs move over on their own when they update. (#2226)\n\n## Also in this release\n\n- `OVME` and `YAS` show their full labels and values again instead of only the first letters. (#2234)\n- `MEMB` has a Breadth tab: advancers and decliners, the share above the 20, 50 and 200-day averages, and new highs and lows.\n- Chat turns a function written in backticks into a chip that runs it. (#2216)\n- Chart formulas work across currencies and per tonne, with an axis per unit. (#2233)\n- Futures read closed from the Friday close to the Sunday open, and `MEMB`, `PERP` and `THEM` say live only when they are. (#2231, #2222)\n- Quotes and search stop and say so on a hung connection, and switching accounts keeps each cloud workspace separate. (#2211, #2243)\n\n[Full diff](https://github.com/gloom-sh/gloomberb/compare/v0.18.4...v0.18.5)\n"
+  "body": "## Highlights\n\n- **A live scanner.** `SCAN` watches intraday conditions you set across US stocks, an index, a sector or a watchlist, and can alert you on a new match. (#2221)\n![SCAN](https://gloom.sh/screenshots/fn/SCAN.png)\n- **BTC and ETH options.** `options BTC-USD`, `OPX` and `OVDV` now cover bitcoin and ether options, with the DVOL volatility index. (#2129)\n- **Valuation and technical alerts.** `ALRT` and `gloom alerts add` can fire on P/E, P/S, RSI, moving-average crosses and a close against a moving average.\n- **Daily valuation charts.** `GE AAPL` charts P/E, EV/EBITDA and other multiples day by day, with average and standard deviation guides.\n- **The desktop app is now called Gloom.** Existing macOS and Windows installs move over on their own when they update. (#2226)\n\n## Also in this release\n\n- `OVME` and `YAS` show their full labels and values again instead of only the first letters. (#2234)\n- `MEMB` has a Breadth tab: advancers and decliners, the share above the 20, 50 and 200-day averages, and new highs and lows.\n- Chat turns a function written in backticks into a chip that runs it. (#2216)\n- Chart formulas work across currencies and per tonne, with an axis per unit. (#2233)\n- Futures read closed from the Friday close to the Sunday open, and `MEMB`, `PERP` and `THEM` say live only when they are. (#2231, #2222)\n- Quotes and search stop and say so on a hung connection, and switching accounts keeps each cloud workspace separate. (#2211, #2243)\n\n[Full diff](https://github.com/gloom-sh/gloomberb/compare/v0.18.4...v0.18.5)\n\n"
 }
