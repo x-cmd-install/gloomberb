@@ -1,0 +1,155 @@
+about:
+  description: "Finance terminal, in your terminal."
+  license: NOASSERTION
+  homepage: https://gloom.sh
+  head: c7f3254
+  archived: false
+  latestVersion: "v0.19.2"
+  latestRelease: "v0.19.2"
+  latestPrerelease: "v0.19.2-nightly.20261029.19.g94a9f98"
+  collectedAt: 2026-10-30T05:35:40Z
+timeline:
+  created: 2026-03-25
+  lastCommit: 2026-10-29
+  lastVersion: 2026-10-29
+  lastRelease: 2026-10-29
+  lastPrerelease: 2026-10-29
+popularity:
+  star: 2569
+  watcher: 8
+  fork: 186
+  release: 96
+  contributor: 16
+  pullRequest: 2245
+  issue: 119
+language:
+  TypeScript: 40642831
+  PowerShell: 150724
+  CSS: 67587
+  Shell: 24178
+  Inno Setup: 9200
+  Swift: 2820
+totalBytes: 40897340
+recent:
+  last30d:
+    since: 2026-09-30
+    release: 41
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+  last60d:
+    since: 2026-08-31
+    release: 51
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+  last90d:
+    since: 2026-08-01
+    release: 57
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+  last180d:
+    since: 2026-05-03
+    release: 82
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+  last360d:
+    since: 2025-11-04
+    release: 96
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+  last720d:
+    since: 2024-11-09
+    release: 96
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+total:
+  release: 96
+  mergedPR: 2146
+  openPR: 7
+  closedIssue: 119
+  openIssue: 0
+  commit: 2765
+---
+path: /home/runner/.x-repo/github.com/vincelwt/gloomberb
+collectedAt: 2026-10-30T05:36:05Z
+loc:
+  TypeScript:
+    code: 493146
+    comments: 60542
+    blanks: 43695
+    files: 3669
+  Tsx:
+    code: 211555
+    comments: 13656
+    blanks: 14615
+    files: 1047
+  Json:
+    code: 30451
+    comments: 0
+    blanks: 4
+    files: 45
+  PowerShell:
+    code: 3248
+    comments: 122
+    blanks: 237
+    files: 7
+  Css:
+    code: 1503
+    comments: 186
+    blanks: 27
+    files: 2
+  Sh:
+    code: 607
+    comments: 57
+    blanks: 87
+    files: 4
+  Swift:
+    code: 53
+    comments: 8
+    blanks: 5
+    files: 1
+  Svg:
+    code: 10
+    comments: 0
+    blanks: 0
+    files: 4
+  Toml:
+    code: 2
+    comments: 1
+    blanks: 0
+    files: 1
+  Markdown:
+    code: 0
+    comments: 6450
+    blanks: 2794
+    files: 50
+  Text:
+    code: 0
+    comments: 86
+    blanks: 21
+    files: 1
+total:
+  code: 741516
+  comments: 81142
+  blanks: 61530
+  files: 4831
+---
+
+---
