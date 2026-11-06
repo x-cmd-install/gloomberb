@@ -2,8 +2,8 @@
   srcname: gloomberb-bin
   binname: gloomberb-bin
   visiblename: gloomberb-bin
-  version: 0.20.1
-  origversion: 0.20.1-1
+  version: 0.20.2
+  origversion: 0.20.2-1
   status: newest
   summary: Finance terminal, in your terminal
   maintainers:
@@ -15,5 +15,5 @@
   visiblename: Gloomberb
   version: 0.20.1
   origversion: null
-  status: newest
+  status: outdated
   summary: Finance terminal
