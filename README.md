@@ -14,15 +14,15 @@ x install gloomberb
 
 ## Code insight
 
-Total: **867,846** lines of code across **5419** files in the top 5 languages.
+Total: **870,996** lines of code across **5431** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| TypeScript | 584,623 | 85,609 | 51,386 | 4212 |
-| Tsx | 237,382 | 17,600 | 16,386 | 1136 |
+| TypeScript | 586,494 | 86,218 | 51,543 | 4219 |
+| Tsx | 238,644 | 17,828 | 16,482 | 1141 |
 | Json | 39,616 | 0 | 4 | 56 |
-| PowerShell | 3,662 | 230 | 350 | 13 |
-| Css | 1,617 | 233 | 28 | 2 |
+| PowerShell | 3,678 | 234 | 352 | 13 |
+| Css | 1,618 | 233 | 28 | 2 |
 
 ## Source
 
@@ -32,28 +32,28 @@ Total: **867,846** lines of code across **5419** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v0.20.17` (2026-11-16)
-- **Last commit**: 2026-11-16
+- **Latest**: `v0.20.18-nightly.20261116.41.g04d289d` (2026-11-16)
+- **Last commit**: 2026-11-17
 - **Assets in release**: 40
 
 ## Popularity
 
-- **Stars**: 2,757 · **Forks**: 201 · **Open issues**: 120 · **Contributors**: 18
+- **Stars**: 2,764 · **Forks**: 205 · **Open issues**: 120 · **Contributors**: 18
 
 ## Totals (cumulative)
 
-- **Releases**: 116 · **Merged PRs**: 2544 · **Open PRs**: 4 · **Closed issues**: 120 · **Open issues**: 0 · **Commits**: 3189
+- **Releases**: 117 · **Merged PRs**: 2557 · **Open PRs**: 7 · **Closed issues**: 120 · **Open issues**: 0 · **Commits**: 3202
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-17 | 42 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-17 | 67 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-08-18 | 75 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-05-20 | 94 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-11-21 | 100 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-11-26 | 100 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-10-18 | 43 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-18 | 68 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-08-19 | 76 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-05-21 | 95 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-11-22 | 100 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-11-27 | 100 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release assets
 
@@ -109,4 +109,4 @@ Install metadata for gloomberb lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261116.yml` · 2026-11-16T06:13:36Z._
+_Snapshot: `data/card/261117.yml` · 2026-11-17T07:49:14Z._
