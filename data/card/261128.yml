@@ -1,0 +1,161 @@
+about:
+  description: "Finance terminal, in your terminal."
+  license: MIT
+  homepage: https://gloom.sh
+  head: 10a87af
+  archived: false
+  latestVersion: "v0.20.23"
+  latestRelease: "v0.20.23"
+  latestPrerelease: "v0.20.23-nightly.20261127.54.g4f11d27"
+  collectedAt: 2026-11-28T07:34:17Z
+timeline:
+  created: 2026-03-25
+  lastCommit: 2026-11-28
+  lastVersion: 2026-11-27
+  lastRelease: 2026-11-27
+  lastPrerelease: 2026-11-27
+popularity:
+  star: 2822
+  watcher: 9
+  fork: 216
+  release: 121
+  contributor: 22
+  pullRequest: 2969
+  issue: 125
+language:
+  TypeScript: 38977231
+  PowerShell: 183814
+  CSS: 77459
+  Shell: 30356
+  Swift: 15038
+  Inno Setup: 8928
+  JavaScript: 4217
+totalBytes: 39297043
+recent:
+  last30d:
+    since: 2026-10-29
+    release: 40
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+  last60d:
+    since: 2026-09-29
+    release: 67
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+  last90d:
+    since: 2026-08-30
+    release: 76
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+  last180d:
+    since: 2026-06-01
+    release: 97
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+  last360d:
+    since: 2025-12-03
+    release: 100
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+  last720d:
+    since: 2024-12-08
+    release: 100
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+total:
+  release: 121
+  mergedPR: 2852
+  openPR: 6
+  closedIssue: 124
+  openIssue: 1
+  commit: 3523
+---
+path: /home/runner/.x-repo/github.com/vincelwt/gloomberb
+collectedAt: 2026-11-28T07:34:30Z
+loc:
+  TypeScript:
+    code: 477647
+    comments: 85690
+    blanks: 41818
+    files: 3222
+  Tsx:
+    code: 164985
+    comments: 15908
+    blanks: 9141
+    files: 742
+  Json:
+    code: 34760
+    comments: 0
+    blanks: 4
+    files: 49
+  PowerShell:
+    code: 3685
+    comments: 238
+    blanks: 353
+    files: 13
+  Css:
+    code: 1633
+    comments: 242
+    blanks: 28
+    files: 2
+  Sh:
+    code: 706
+    comments: 103
+    blanks: 107
+    files: 6
+  Swift:
+    code: 243
+    comments: 46
+    blanks: 23
+    files: 3
+  JavaScript:
+    code: 62
+    comments: 27
+    blanks: 9
+    files: 1
+  Svg:
+    code: 10
+    comments: 0
+    blanks: 0
+    files: 4
+  Toml:
+    code: 2
+    comments: 1
+    blanks: 0
+    files: 1
+  Markdown:
+    code: 0
+    comments: 7670
+    blanks: 3213
+    files: 55
+  Text:
+    code: 0
+    comments: 86
+    blanks: 21
+    files: 1
+total:
+  code: 684876
+  comments: 110049
+  blanks: 54777
+  files: 4099
+---
+
+---
